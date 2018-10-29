@@ -43,10 +43,10 @@ struct PrimaryRegistrationChildVC_Constants {
              • `popup4Header`
              */
             struct LabelText {
-                static let popup1Header = "Region"
-                static let popup2Header = "popup2"
-                static let popup3Header = "popup3"
-                static let popup4Header = "popup4"
+                static let popup1Header = "Campus"
+                static let popup2Header = "Room"
+                static let popup3Header = "PCC Asset Tag"
+                static let popup4Header = "Device Assignment"
             }
         }
         
@@ -71,8 +71,8 @@ struct PrimaryRegistrationChildVC_Constants {
              • [Keys] `key` : property list key for storing the associated `codes` value from selection
              */
             struct Info1 {
-                static let list = ["","USA","Canada","EMEA (Europe, Middle East, Africa)","LA (Latin America)","AP (Asia Pacific)"]
-                static let codes = ["","US","Canada","EMEA","LA","AP"]
+                static let list = ["","Community Campus","Desert Vista","District Office","Downtown Campus","East Campus","Northwest Campus","West Campus"]
+                static let codes = ["","CC","DV","DO","DC","EC","NW","WC"]
                 static let selectedType = "info1"
                 static let key = "infoChoice1"
             }
@@ -128,8 +128,8 @@ struct PrimaryRegistrationChildVC_Constants {
              • [Keys] `key` : property list key for storing the associated `codes` value from selection
              */
             struct Info4 {
-                static let list = ["","A","B","C"]
-                static let codes = ["","A","B","C"]
+                static let list = ["","Classroom Computer","Classroom Notebook","Faculty Computer","Faculty Notebook","Staff Computer","Staff Notebook"]
+                static let codes = ["","A","CN","FC","FN","SC","SN"]
                 static let selectedType = "info4"
                 static let key = "infoChoice4"
             }
@@ -141,7 +141,7 @@ struct PrimaryRegistrationChildVC_Constants {
      
      _example_:  A security compliance message
     */
-    static let additionalPolicyMessage = "Organization security policies will automatically be applied."
+    static let additionalPolicyMessage = "Pima College security policies will automatically be applied."
 }
 
 

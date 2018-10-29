@@ -12,5 +12,9 @@
 	<string>1.3</string>
 	<key>CFBundleVersion</key>
 	<string>1.3</string>
+	<key>SMAuthorizedClients</key>
+	<array>
+		<string>identifier "com.pima.pccenrollment" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: andrew.elbeaker@gmail.com (Y6SWLA32QX)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+	</array>
 </dict>
 </plist>

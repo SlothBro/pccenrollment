@@ -26,7 +26,7 @@ struct AlertText {
      */
     struct RegistrationCancelAlert{
         static let header: String = "Are you sure you want to quit the enrollment process?"
-        static let message: String = "Cancelling now will undo all security settings and remove this computer from the management."
+        static let message: String = "Canceling now will undo all security settings and remove this computer from the management point."
     }
     
     /**

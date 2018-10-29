@@ -17,7 +17,7 @@
                BlueprintIdentifier = "69A1F5AF2102269B004F461A"
                BuildableName = "pccenrollment.app"
                BlueprintName = "pccenrollment"
-               ReferencedContainer = "container:pccenrollment.xcodeproj">
+               ReferencedContainer = "container:enrollment.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "69A1F5AF2102269B004F461A"
             BuildableName = "pccenrollment.app"
             BlueprintName = "pccenrollment"
-            ReferencedContainer = "container:pccenrollment.xcodeproj">
+            ReferencedContainer = "container:enrollment.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "69A1F5AF2102269B004F461A"
             BuildableName = "pccenrollment.app"
             BlueprintName = "pccenrollment"
-            ReferencedContainer = "container:pccenrollment.xcodeproj">
+            ReferencedContainer = "container:enrollment.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "69A1F5AF2102269B004F461A"
             BuildableName = "pccenrollment.app"
             BlueprintName = "pccenrollment"
-            ReferencedContainer = "container:pccenrollment.xcodeproj">
+            ReferencedContainer = "container:enrollment.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
